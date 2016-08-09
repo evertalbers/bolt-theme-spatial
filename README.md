@@ -10,7 +10,7 @@ This is Spatial theme designed by TEMPLATED and adapted for Bolt.
 
 To start using Spatial theme modify your `config.yml` file:
 ```
-# app/config/cofig.yml
+# app/config/config.yml
 theme: spatial
 record_template: record.twig
 listing_template: listing.twig
